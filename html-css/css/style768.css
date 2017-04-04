@@ -1,0 +1,16 @@
+@media all and ( max-device-width:768px){
+.wrapper {
+  width: 100%;
+}
+section {
+  height: 500px;
+}
+nav {
+height: 500px;
+}
+.slide {
+  width: 40%;
+}
+
+
+}

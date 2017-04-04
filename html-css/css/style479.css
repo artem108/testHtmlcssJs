@@ -1,0 +1,19 @@
+@media all and ( max-device-width:479px){
+
+section {
+  clear: both;
+  width: 100%;
+  height: 700px;
+}
+.slide {
+  width: 80%;
+  margin-left: 100px;
+}
+nav {
+  clear: both;
+  margin-top: 20px;
+  margin-left: 0;
+  width: 100%;
+  font: 50px;
+}
+}
