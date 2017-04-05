@@ -28,11 +28,7 @@ window.onload = function() {
     var valueSrch = document.getElementById('valueSrch').value;
 
     for (var i = 0; i < data.length; i++) {
-      if ("Sandra" == valueSrch) {
-        console.log(data[3].first_name);
-      } else {
-        console.log("not found");
-      }
+    
 
     }
 
